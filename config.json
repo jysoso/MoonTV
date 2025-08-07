@@ -85,5 +85,27 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
-  }
+  },
+  "custom_category": [
+    {
+      "name": "热门电影",
+      "type": "movie",
+      "query": "热门"
+    },
+    {
+      "name": "热门剧集",
+      "type": "tv",
+      "query": "热门"
+    },
+    {
+      "name": "最新电影",
+      "type": "movie",
+      "query": "最新"
+    },
+    {
+      "name": "纪录片",
+      "type": "tv",
+      "query": "纪录片"
+    }    
+  ]
 }
